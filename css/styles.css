@@ -123,9 +123,10 @@ footer
     background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0066ff 70%, #000000);
     border: solid;
     border-color: #ffffff;
-    border-width: 5px,5px,5px,5px;
-
-
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
 }
 
 footer p
