@@ -122,8 +122,10 @@ footer
 {
     background: #000000;
     background: linear-gradient(90deg,#000000 0%, #0000ff 25%, #0066ff 70%, #000000);
+    border: solid;
     border-color: #ffffff;
-    border-width: 5px, 5px, 5px, 5px;
+    border-width: 5px,5px,5px,5px;
+
 
 }
 
@@ -131,9 +133,9 @@ footer p
 {
     text-align: right;
     font-size: 20px;
+    padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
-    padding-top: 15px;
 }
 
 
